@@ -14,7 +14,7 @@ module.exports = {
         confirmCommit: "Are you sure you want to proceed with the commit above?"
     },
     types: [
-        { value: "✨ feat", name: "A new feature" },
+        { value: "[EMOJI_PLACEHOLDER] feat", name: "A new feature" },
         { value: "🐛 fix", name: "A bug fix" },
         { value: "🚑 hotfix", name: "A temporary hotfix" },
         { value: "🔨 chore", name: "Other changes that don't modify src or test files" },
@@ -76,3 +76,13 @@ module.exports = {
     defaultSubject: "",
     subjectLimit: 100,
 }
+{
+
+// ... (existing configurations)
+
+usePreparedCommit: false,
+preCommitHook: (commit) => {
+  commit.subject = commit.subject.replace("[EMOJI_PLACEHOLDER]", "✨");
+},
+
+// ... (rest of the configurations)
