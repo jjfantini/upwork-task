@@ -16,7 +16,7 @@ module.exports = {
         { value: "🐛 fix", name: "A bug fix" },
         { value: "🚑 hotfix", name: "A temporary hotfix" },
     ],
-    usePreparedCommit: false, // to re-use commit from ./.git/COMMIT_EDITMSG
+    usePreparedCommit: false,
     useEmoji: true,
     scopes: [{ name: 'core' }, { name: 'models' }, { name: 'helpers' }, { name: 'credentials' }, { name: 'constants' }, { name: 'tests' }],
 
