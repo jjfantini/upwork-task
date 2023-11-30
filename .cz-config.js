@@ -75,14 +75,9 @@ module.exports = {
     defaultScope: "",
     defaultSubject: "",
     subjectLimit: 100,
+    preCommitHook: (commit) => {
+        commit.subject = commit.subject.replace("[EMOJI_PLACEHOLDER]", "✨");
+    },
 }
-{
-
-// ... (existing configurations)
-
-usePreparedCommit: false,
-preCommitHook: (commit) => {
-  commit.subject = commit.subject.replace("[EMOJI_PLACEHOLDER]", "✨");
-},
 
 // ... (rest of the configurations)
