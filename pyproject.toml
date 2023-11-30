@@ -63,7 +63,7 @@ example = "feature: this feature enable customize through config file"
 schema = "<type>: <body>"
 schema_pattern = "(feature|bug|🐛 fix):(\\s.*)"
 bump_pattern = "^(break|new|🐛 fix|hotfix)"
-bump_map = {"break" = "MAJOR", "new" = "MINOR", "🐛 fix" = "PATCH", "hotfix" = "PATCH"}
+bump_map = {"break" = "MAJOR", "new" = "MINOR", "fix" = "PATCH", "hotfix" = "PATCH"}
 change_type_order = ["BREAKING CHANGE", "feat", "🐛 fix", "refactor", "perf"]
 info_path = "cz_customize_info.txt"
 info = """
