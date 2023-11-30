@@ -27,8 +27,8 @@ module.exports = {
         { value: "🎡 ci", name: "Changes to our CI configuration files and scripts" },
         { value: "✅ test", name: "Adding missing tests or correcting existing tests" },
         { value: "⏪️ revert", name: "Reverts a previous commit" },
-        { value: "➕ dep", name: "Add a dependency" },
-        { value: "➖ dep", name: "Remove a dependency" }
+        { value: "➕ add_dep", name: "Add a dependency" },
+        { value: "➖ rem_dep", name: "Remove a dependency" }
     ],
     usePreparedCommit: false, // to re-use commit from ./.git/COMMIT_EDITMSG
     allowTicketNumber: true,
