@@ -39,7 +39,7 @@
 
 This is my personal python package template. Using `cookiecutter` is on the roadmap.
 This tmeplate is forked from Microsoft's python package repository.
-
+I fixed some issues.
 I've added a few things to the template:
 
 - `Ruff` - style/linter tool
