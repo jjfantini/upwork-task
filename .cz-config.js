@@ -16,7 +16,7 @@ module.exports = {
     confirmCommit: "Are you sure you want to proceed with the commit above?",
   },
   types: [
-    { value: "✨ feat dddd", name: "A new feature" },
+    { value: "✨ feat", name: "A new feature" },
     { value: "🐛 fix", name: "A bug fix" },
     { value: "🚑 hotfix", name: "A temporary hotfix" },
     {
@@ -43,15 +43,15 @@ module.exports = {
     },
     {
       value: "🎡 ci",
-      name: "Changes to our CI configuration files and scripts",
+      name: "Changes ",
     },
     {
       value: "✅ test",
       name: "Adding missing tests or correcting existing tests",
     },
-    { value: "⏪️ revert", name: "Reverts a previous commit" },
-    { value: "➕ add_dep", name: "Add a dependency" },
-    { value: "➖ rem_dep", name: "Remove a dependency" },
+    // { value: "⏪️ revert", name: "Reverts a previous commit" },
+    // { value: "➕ add_dep", name: "Add a dependency" },
+    // { value: "➖ rem_dep", name: "Remove a dependency" },
   ],
   usePreparedCommit: false, // to re-use commit from ./.git/COMMIT_EDITMSG
   allowTicketNumber: true,
