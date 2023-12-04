@@ -7,13 +7,14 @@
 
 <div align="center">
 
-  [![Status](https://img.shields.io/badge/status-active-success.svg)]()
-  [![GitHub Issues](https://img.shields.io/github/issues/jjfantini/python_package.svg)](https://github.com/jjfantini/python_package/issues)
-  [![GitHub Pull Requests](https://img.shields.io/github/issues-pr/jjfantini/python_package.svg)](https://github.com/jjfantini/python_package/pulls)
-  [![License](https://img.shields.io/badge/license-MIT-blue.svg)](/LICENSE)
-  [![Python](https://img.shields.io/badge/Python-3.10-3776AB.svg?style=flat&logo=python&logoColor=white)](https://www.python.org)
-  ![License](https://img.shields.io/badge/License-Proprietary-black)
-  [![Commitizen friendly](https://img.shields.io/badge/commitizen-friendly-brightgreen.svg)](http://commitizen.github.io/cz-cli/)
+[![Status](https://img.shields.io/badge/status-active-success.svg)]()
+[![GitHub Issues](https://img.shields.io/github/issues/jjfantini/python_package.svg)](https://github.com/jjfantini/python_package/issues)
+[![GitHub Pull Requests](https://img.shields.io/github/issues-pr/jjfantini/python_package.svg)](https://github.com/jjfantini/python_package/pulls)
+[![License](https://img.shields.io/badge/license-MIT-blue.svg)](/LICENSE)
+[![Python](https://img.shields.io/badge/Python-3.10-3776AB.svg?style=flat&logo=python&logoColor=white)](https://www.python.org)
+![License](https://img.shields.io/badge/License-Proprietary-black)
+[![Commitizen friendly](https://img.shields.io/badge/commitizen-friendly-brightgreen.svg)](http://commitizen.github.io/cz-cli/)
+
 </div>
 
 ---
@@ -21,7 +22,7 @@
 <p align="center"> This package is a template for your <b>project</b>.
 </p>
 
-## 📝 __Table of Contents__
+## 📝 **Table of Contents**
 
 - [About](#about)
 - [Features](#features)
@@ -34,12 +35,13 @@
 - [Authors](#authors)
 - [Acknowledgments](#acknowledgement)
 
-## 🧐 __About__ <a name = "about"></a>
+## 🧐 **About** <a name = "about"></a>
 
 This is my personal python package template. Using `cookiecutter` is on the roadmap.
 This tmeplate is forked from Microsoft's python package repo.
 
 I've added a few things to the template:
+
 - `Ruff` - style/linter tool
 - `Poetry` - package management
 - `pre-commit` - pre-commit hooks (checking commit messages, linting)
@@ -55,17 +57,15 @@ I've added a few things to the template:
   - `CI` - continuous integration
   - `schedule-update-actions` - scheduled update of GitHub Actions
 
-
-## __Features__ <a name = "features"></a>
+## **Features** <a name = "features"></a>
 
 - **Highlight your Package Strengths**
 
-## 🚗 __Roadmap__ <a name = "roadmap"></a>
+## 🚗 **Roadmap** <a name = "roadmap"></a>
 
 - [ ] Add `cookiecutter` template
 
-
-## 🏁 __Getting Started__ <a name = "getting_started"></a>
+## 🏁 **Getting Started** <a name = "getting_started"></a>
 
 To get started with this template, simply 'Use This Template' to create a new repository and start building your project within the `src` directory. Try to open the project in GitHub Codespace, and to run the unit tests using the VS Code Test extension.
 
@@ -78,8 +78,7 @@ These instructions will get you a copy of the project up and running on your loc
 - `Python` - programming language
 - `Conda/miniconda/Mamba/micromamba` - env management, (recommend using micromamba)
 
-
-### 📩 __Installing Package__
+### 📩 **Installing Package**
 
 When I upload to pip:
 
@@ -93,9 +92,10 @@ Current install method:
 pip install git+https://github.com/user/python_package.git
 ```
 
-## 🏗️ __Development Setup__ <a name = "development_setup"></a>
+## 🏗️ **Development Setup** <a name = "development_setup"></a>
 
 This section shows users how to setup their environment using your `poetry.lock` file and `environment.yml`.
+
 <details>
 <summary><b>Setup Mamba Environment (w/Poetry)</b></summary>
 <p>
@@ -104,62 +104,62 @@ This project uses a mamba environment.
 
 1. I created the environment with a `--prefix` and not a name, to ensure that it installed in my project directory, not the default path. This is executed in the project root dir.
 
-    ```bash
-    # Windows
-    mamba env create --prefix ./menv  --file environment.yml
+   ```bash
+   # Windows
+   mamba env create --prefix ./menv  --file environment.yml
 
-    # MacOS / Linux
-    mamba env create --prefix ./menv  --file base-environment.yml
-    ```
+   # MacOS / Linux
+   mamba env create --prefix ./menv  --file base-environment.yml
+   ```
 
 2. I didn't want the full path to be displayed when using this env so I changed my `.condarc` file to show the env name as the last directory where the env is located.
 
-    ```bash
-    conda config --set env_prompt '({name})'
-    conda config --add channels conda-forge
-    ```
+   ```bash
+   conda config --set env_prompt '({name})'
+   conda config --add channels conda-forge
+   ```
 
 3. Activate the environment
 
-    ```bash
-    mamba init zsh / mamba init
-    mamba activate ./menv
-    ```
+   ```bash
+   mamba init zsh / mamba init
+   mamba activate ./menv
+   ```
 
 4. Check if poetry is installed
 
-    ```bash
-    mamba install poetry
-    poetry --version
-    # make sure it is the latest version
-    # can use mamba search -f poetry
-    ```
+   ```bash
+   mamba install poetry
+   poetry --version
+   # make sure it is the latest version
+   # can use mamba search -f poetry
+   ```
 
 5. Install Packages from `poetry.lock`
 
-    ```bash
-    poetry install
-    ```
+   ```bash
+   poetry install
+   ```
 
 6. If you get an error:
 
-    ```
-    EnvCommandError
+   ```
+   EnvCommandError
 
-    Command ['c:\\Users\\<user>\\<path>\\obb\\python.exe', '-m', 'pip', 'uninstall', 'charset-normalizer', '-y'] errored with the following return code 2
-    ```
+   Command ['c:\\Users\\<user>\\<path>\\obb\\python.exe', '-m', 'pip', 'uninstall', 'charset-normalizer', '-y'] errored with the following return code 2
+   ```
 
-    Then run:
+   Then run:
 
-    ```
-    pip install charset-normalizer --upgrade
-    ```
+   ```
+   pip install charset-normalizer --upgrade
+   ```
 
-    and re-run!
+   and re-run!
 
-    ```bash
-    poetry install
-    ```
+   ```bash
+   poetry install
+   ```
 
 </p>
 </details>
@@ -167,23 +167,23 @@ This project uses a mamba environment.
 <summary><b>Setup Mamba Environment (w/o Poetry)</b></summary>
 <p>
 
-  If you do not use `poetry` for some weird reason, I keep the updated environment specs in an `environment.yml` and `requirements.txt`file in the root of the project.
+If you do not use `poetry` for some weird reason, I keep the updated environment specs in an `environment.yml` and `requirements.txt`file in the root of the project.
 
-  I use keep the env. specs up to date. This is packaged in a file `update_reqs.py`
+I use keep the env. specs up to date. This is packaged in a file `update_reqs.py`
 
-  ```bash
-  conda env export | python -c "import sys; print(''.join(line for line in sys.stdin if 'prefix: ' not in line))" > environment.yml
-  # This cmd removes the 'prefix:' line to be platform independent.
-  conda list  --export > requirements.txt
-  ```
+```bash
+conda env export | python -c "import sys; print(''.join(line for line in sys.stdin if 'prefix: ' not in line))" > environment.yml
+# This cmd removes the 'prefix:' line to be platform independent.
+conda list  --export > requirements.txt
+```
 
-### __Setup Conda Env (w/ requirements)__
+### **Setup Conda Env (w/ requirements)**
 
-  This method will be installing dependencies from `requirements.txt || environment.yml`
+This method will be installing dependencies from `requirements.txt || environment.yml`
 
-### __Steps__
+### **Steps**
 
-  There are two methods to recreating the environment:
+There are two methods to recreating the environment:
 
 - Using requirements.txt
 
@@ -221,7 +221,8 @@ Follow the [quickstart guide](https://github.com/leoforfree/cz-customizable) and
 </p>
 </details>
 
-## ⚡️ __GitHub Workflow Setup__ <a name = "development_setup"></a>
+## ⚡️ **GitHub Workflow Setup** <a name = "development_setup"></a>
+
 There are 8 pre-made github actions that are used with this template. SOme require API_KEYS/TOKENS to work. Add your tokens to the secrets manager in your repo settings.
 
 1. `bumpversion.yml`: This workflow automates the versioning of the project using bumpversion.
