@@ -101,7 +101,7 @@ module.exports = {
   defaultBody: "",
   defaultIssues: "",
   defaultScope: "",
-  defaultSubject: "sss",
+  defaultSubject: "",
   subjectLimit: 100,
   preCommitHook: (commit) => {
     commit.subject = commit.subject.replace("[EMOJI_PLACEHOLDER]", "✨");
