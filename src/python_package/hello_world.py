@@ -18,8 +18,3 @@ def good_night() -> str:
     """Doc String."""
     print("good night")
     return "string"
-
-
-def hello_goodbye():
-    hello_world(1)
-    good_night()
