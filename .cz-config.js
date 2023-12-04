@@ -24,7 +24,7 @@ module.exports = {
       name: "Other changes that don't modify src or test files",
     },
     {
-      value: "♻️ refactor emoji",
+      value: "♻️ refactor",
       name: "A code change that neither fixes a bug nor adds a feature",
     },
     {
