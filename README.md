@@ -38,7 +38,7 @@
 ## 🧐 **About** <a name = "about"></a>
 
 This is my personal python package template. Using `cookiecutter` is on the roadmap.
-This tmeplate is forked from Microsoft's python package repo.
+This tmeplate is forked from Microsoft's python package repository.
 
 I've added a few things to the template:
 
