@@ -1,4 +1,4 @@
-[tool.poetry][]
+[tool.poetry]
 name = "python_package"
 version = "0.0.0"
 description = "Hyper-modern python package framework."
