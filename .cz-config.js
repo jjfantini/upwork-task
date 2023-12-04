@@ -17,7 +17,7 @@ module.exports = {
   },
   types: [
     { value: "[EMOJI_PLACEHOLDER] feat", name: "A new feature" },
-    { value: "[Bug] fix", name: "A bug fix" },
+    { value: "🐛 fix", name: "A bug fix" },
     { value: "🚑 hotfix", name: "A temporary hotfix" },
     {
       value: "🔨 chore",
