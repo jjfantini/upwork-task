@@ -1,0 +1,394 @@
+Java backend Developer with AWS Developer Associate certification
+
+
+-Experience
+I am a software engineer with 20 years of experience in multiple industry. I am a very passionate and an excellent problem solver.
+
+I work with Java 11 using Spring, Elastic Search, Jersey, Hibernate, Postresql , Mysql and ActiveMQ. I also have a lot of experience in AWS services such as Cloudformation, DynamoDB, Lambda, SQS , RDS.
+
+I have the AWS developer associate certification.
+
+-Skillset
+Java
+AWS Lambda
+RESTful API
+PostgreSQL Programming
+Linux System Administration
+Oracle Database
+Apache ActiveMQ
+Hibernate
+Docker
+Amazon Elastic Beanstalk
+
+
+---------------------------------------------------------------------------------------
+Senior Android Developer
+
+-Exp
+
+10 years of experience working on native Android applications for high profile clients and businesses.
+
+100% Job Success | 11,000+ Hours | Top Rated Plus | 5 Star Reviews Exclusively
+
+From planning, developing and publishing to maintaining and supporting high quality Android applications. I hope you see the experience displayed in my profile as an indication of my reliability.
+
+✔︎ Constantly updating my knowledge with the most recent design patterns and code conventions;
+✔︎ The delivery of a product that respects the highest standards of usability, performance and appearance is guaranteed;
+✔︎ Great cost-benefit by delivering faster and higher quality products than the average;
+✔︎ Flexible availability to always meet the client's needs.
+
+Vast experience managing development teams located in different places around the world. As an example, I've been managing a team that averaged 7 developers located in different countries, such as Canada, Ukraine, Pakistan, India and Brazil.
+
+✅ Mobile Development Leader;
+✅ Native Development;
+✅ Kotlin and Java Expert;
+✅ Clean code, DRY and KISS principles;
+✅ Unit and automated testing;
+✅ Well documented code;
+✅ UI/UX Best Practices;
+✅ NoSQL and SQL Databases;
+✅ API Integration;
+✅ Web Services Development.
+
+MySQL, SQLite, PostgreSQL, SQL Server, Firebase, Java, Kotlin, Android Studio, Android SDK, Android NDK, Device Owner, Play Store...
+
+-Skillset
+
+Android
+Android SDK
+MySQL Programming
+REST
+Material Design
+Firebase Cloud Firestore
+SQLite
+PHP
+Java
+
+-----------------------------------------------------------------------------------
+
+Full Stack Developer
+
+-Exp
+
+I’m a programmer with more than 5 years of experience who can work in different programming langauges using different frameworks. I can create any application type:
+
+● web based
+● desktop
+
+If I don’t know any programming language or framework which you want to use to build your application then I can learn it in couple days.
+
+SKILLS
+
+● PHP
+● Javascript
+● jQuery
+● Bootstrap
+● AJAX
+● MySQL/PostgreSQL
+● REST API
+● HTML/HTML5
+● CSS/CSS3
+● C/C++
+● Ruby (and framework Ruby On Rails)
+● Python
+● Java
+● CUDA Computation
+● OCR (on C/C++, Python, Java)
+
+EXPERINCE
+
+● Freelance 5+ years (up to July 2014). I was working hard to learn what clients want to see, to learn different programming languages and frameworks. Those years taught me to learn new things everyday to provide high-quality solutions for my client. Here's some of my works (PHP, MySQL, HTML, CSS, JavaScript):
+○ http://dev.louepartout.com/
+○ http://kilosolution.com/zonemembre/public/
+● Swiss Interactive Software GmbH (August 2014 - December 2014). Front-End and Back-End developer for gambling platform and websites (using the platform). Here's you can see some of the websites we built (PHP, MySQL, HTML, CSS, JavaScript, Bash):
+○ http://betboro.com/
+○ http://sports.flutterclub.com/
+○ https://sports.princessstar.com/
+○ http://globalbet.eu/
+● Ad.net (February 2015 - Present)
+
+
+-skillset
+
+Selenium
+JavaScript
+Web Crawling
+Data Extraction
+PHP
+Python
+Data Scraping
+Automation
+Bot Development
+React
+MySQL
+Java
+C++
+CSS 3
+HTML5
+
+
+---------------------------------------------------------------------
+Android Developer
+
+-Exp
+
+🌟 Top-Rated Upwork Professional 🧑🏻‍💻 9+ years of experience 📱 Android | Kotlin | Java | Jetpack Compose | Kotlin-Multiplatform| Flutter | WearOS | AndroidTV | 🚀 AI | ChatGPT | 💻 Firebase | VoIP | Linphone
+
+With over 9 years of extensive experience as an Android Developer, I specialize in native Android application programming with a strong focus on SCRUM/Agile workflow.  
+
+ I have a proven track record of delivering high-quality mobile applications in various domains, including: 
+
+* Airline Domain
+* Banking Domain
+* Cargo Management Domain
+* Logistics Domain
+* Financial Domain
+* Social Media/Dating Domain with Video/Audio Chats
+* Location Tracking Domain 
+
+My expertise in mobile development includes: 
+
+* Programming Languages: Java, Kotlin
+* Architectural Patterns: MVVM, MVP, MVC
+* Design Patterns, Custom Controls, and REST API integration
+* Material Design, Mobile UI/UX, and Firebase integration (AdMob, Analytics, A/B testing, etc.)
+* Jetpack Compose, Jetpack Navigation
+* Firebase Realtime Database and Storage
+* Android SDK, NDK, Open Source, Support Libraries
+* Reactive Programming with rxJava and rxAndroid
+* Dependency Injection using Dagger, Kodein, and Hilt
+* Databases: SQLite, Room, Realm, Page
+* Network Libraries: Retrofit, OkHttp, Volley, ktor
+* Image Loading Libraries: Picasso, Glide
+* Crash Reporting and Analytics Tools: Crashlytics, Firebase, Fabric, LeakCanary, Timber
+* Other Libraries: Gson, AutoValue, JodaTime, AndroidJob, Google Services
+* Sockets/SignalR
+* Kiosk Mode
+* SonarQube code coverage
+* Kotlin-Multiplatform (One POC) 
+* Wear OS & Smartwatch development
+
+In addition, I am an expert in the Linphone SDK, a powerful tool for building voice and video communication applications. I have in-depth knowledge of integrating and customising the Linphone SDK to create high-quality, real-time voice and video chat functionalities within Android applications. I am experienced in implementing Linphone's advanced features, including call management, audio/video codecs, encryption, push notifications, and more. Whether you need to develop a VoIP application from scratch or enhance an existing app with Linphone capabilities, I can provide the expertise you require. 
+
+I have integrated various features and technologies into Android applications, including: 
+
+* Beacons integration for proximity-based interactions
+* Calendar API integration for managing events and schedules
+* QR Code integration for scanning and processing QR codes
+* OCR (Optical Character Recognition) integration for text recognition and extraction 
+
+For multimedia capabilities, I have integrated Video Chat using WebRTC, Twilio, and Agora, as well as Audio Streaming. I am familiar with ExoPlayer for HLS Video Streaming (HTTP Video Streaming), RTSP Video Streaming, and DASH Video Streaming. 
+
+Other skills and features I offer include Custom Calendar development, Media Gallery implementation, Background Download and Upload functionality, Tiff file format handling in Android, Live Streaming using Agora SDK, Deep Linking, LeakCanary for memory leak detection, and code annotations to improve the linting process. 
+
+Experienced Kotlin Multiplatform Developer with a track record of delivering efficient cross-platform solutions. Proficient in Kotlin Multiplatform Mobile (KMM) and skilled in creating high-performance apps for Android, iOS, web, and more.
+
+Experienced Jetpack Compose Developer, proficient in creating dynamic, interactive, and modern Android UIs. Skilled in leveraging Jetpack Compose's power to build visually stunning and responsive applications.
+
+- Experience migrating target api level 33
+- Update existing app
+
+I am fluent in English and passionate about Android development. Please feel free to reach out to me with any Android-related questions or projects. I would be pleased to help you bring your ideas to life.
+
+-Skillset
+
+Kotlin
+Location-Based Service
+Android App Development
+Java
+Map Integration
+Android
+Bluetooth
+API Integration
+Push Notifications
+Firebase Realtime Database
+Firebase
+NFC
+VoIP
+In-App Purchases
+Wear OS
+Social Media Account Integration
+Payment Functionality
+User Authentication
+User Profile Creation
+
+--------------------------------------------------------------------------
+Full-Stack Web & Mobile Developer
+
+-Exp
+
+I am an experienced, versatile, and creative full-stack software engineer with extensive experience in designing and building innovative technology solutions to solve complex problems.
+
+HireRight, 8/3/23, EFE, DF9742BFF305B507A30CB5BC320A2E71
+
+-Skillset
+
+Java
+JavaScript
+HTML5
+Vue.js
+AngularJS
+API Development
+Quantitative Analysis
+TypeScript
+React
+
+-------------------------------------------------------------------
+Senior Mobile Developer
+
+-Exp
+
+Experienced iOS/Android Developer in Swift / Java who has successfully delivered several apps to the App Store (Apple and Google Play Store) on time and on budget. I am familiar with most of popular design patterns (MVC, MVVM).
+
+I have vast experience working w/ Social networking apps, Location/Map based apps, Fitness apps, Food ordering apps, Mobile games, ARKit, CoreLocation, Alamofire, as well as several other popular 3rd party SDKs.
+
+As a reliable Top-Rated Plus developer with over 8 years of experience, I’m committed to the highest industry standards in all the work I do. I also pride myself on possessing a high level of professionalism, maintaining excellent communication, meeting and exceeding client expectations, and providing solutions for problem-solving in a timely manner. I come highly recommended from all my previous clients and hope that I can continue to do so if you choose to hire me for your project.
+
+Got an idea for the next big thing? Have you been dreaming about creating your own application? If you have wireframes and need to turn them into a functional application or perhaps just a notebook with drawings of your designs, I can assist you in turning that creativity into a polished and published application for both Android and iOS platforms.
+
+-Skillset
+
+Android
+Java
+MySQL
+ARKit
+ARCore
+Swift
+JSON
+iPhone App Development
+Native App Development
+App Development
+Push Notifications
+Chat & Messaging Software
+AR Application
+Shopify
+Web Development
+
+--------------------------------------------------------------------
+Android + Software Developer
+
+-Exp
+
+I'm an experienced and professional mobile and software developer doing freelance, working remotely (telecommute) and looking for great projects to work on. I love to make your ideas alive. I care about every single line of my code.
+
+Summary of Qualifications
+• Expert understanding of core mobile technologies standards
+• Development of software, mobile web apps
+• Solid understanding of how the android OS works for the best performance
+• Passionate about all aspects of development
+• Modern tooling and workflow
+• Ability to write high-performance, maintainable and reusable code
+• Appreciation for quality, usability, user experience (UX), accessibility and compatibility
+• 5+ years of experience
+• Highly motivated, self-starter, fast learner, hard worker, organized, attentive to details and a team player
+• Good communication skills. Fluent in English , both written and verbal
+• Sense of aesthetic and design
+• Always up-to-date with the latest technologies, techniques, optimizations and best practices
+
+Hire me!
+
+-Skillset
+
+Android
+Android App Development
+Java
+Core Java
+Mobile App Development
+Mobile Programming
+Firebase
+Camera
+Social Media Account Integration
+In-App Purchases
+
+---------------------------------------------------------------------------
+Senior Software Developer
+
+-Exp
+
+Hi my name is Hirin, I am senior full-stack developer, I have been involved in programming since 2008. I have 13+ years professional experience with various programming language. I'm focused to web, server, and desktop app programming with latest tech and and very enthusiastic about creating super fast and efficient process by using multi-threading or concurrency.
+
+👉Following are my main programming languages:👇
+✅ JAVA
+✅ C#
+✅ PHP
+✅ Html & JavaScript
+✅ Dart
+✅ Go Lang
+✅ Python
+✅ Asp. Net
+✅ Etc
+
+👉Databases:👇
+✅ MySQL
+✅ MSSQL
+✅ PostgreSQL
+✅ MongoDB
+✅ Redis
+
+👉Frameworks and Others:👇
+✅ Laravel
+✅ VueJS
+✅ Inertia
+✅ ExpressJS
+✅ Flutter
+✅ Multi-threading Programming
+✅ API (Stripe, FeDex, Twilio, Google, Firebase)
+
+
+Programming is not just my job, but is part of my life because I really super love it. Don't hesitate to use my services to solve every your programming issues (creating from scratch, continue existing, or convert existing).
+
+Thank you for visiting my profile
+
+-Skillset
+
+Database Programming
+Java
+JavaScript
+PHP
+C#
+.NET Framework
+Node.js
+NoSQL Database
+Flutter
+Stripe
+Custom PHP
+Database Development
+Payment Gateway Integration
+
+---------------------------------------------------
+Software Developer
+
+-Exp
+
+Excellence in C, C++, JAVA, JavaScript, Typescript, PHP, MySQL, Firebase, Android, IOS, Ionic, React Native.
+
+Experience with Mobile:
+- Expertise in Native and Hybrid Android/IOS App Development
+- Java, Kotlin, XML, Swift, Objective C, SwiftUI, Ionic, React Native, Flutter
+- Experience in Maps, GPS, BLE connection and data transfer with different gadgets, Payment Gateways Integration, Chat, File Management, API Integration, Push Notifications, SQLite, Core Data, Synchronization, Google Fit Integration, Health App Integration and more.
+- Deployment on Play Store and App Store
+
+Experience with Web:
+- AngularJS, Ionic, React, Laravel, Codeigniter, jQuery, Firebase Hosting
+- MySQL, Firebase DB
+
+Experience with Server-side Programming:
+- Core PHP, Codeigniter, NodeJS, Firebase Cloud Functions
+- MySQL
+
+-Skillset
+
+Java
+JavaScript
+PHP
+MySQL
+Android App Development
+iOS Development
+AngularJS
+Ionic Framework
+React Native
+Flutter
+Android
+User Authentication
+API Integration
+Location-Based Service
