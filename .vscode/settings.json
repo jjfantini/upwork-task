@@ -88,5 +88,6 @@
         "zoomout"
     ],
     "python.analysis.typeCheckingMode": "basic",
-    "workbench.activityBar.orientation": "vertical"
+    "workbench.activityBar.orientation": "vertical",
+    "editor.inlineSuggest.showToolbar": "onHover"
 }

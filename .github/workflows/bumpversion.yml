@@ -3,7 +3,6 @@ name: Bump Package Version
 on:
   push:
     branches:
-      - main
       - dev/simple-commit
 
 permissions:
@@ -11,8 +10,8 @@ permissions:
 
 jobs:
   bump-version:
-    if: "!startsWith(github.event.head_commit.message, 'bump:')"
-    runs-on: ubuntu-latest
+    if: !startsWith(github.event.head_commit.message 'bump:')
+    runs-on: windows-latest
     name: "Bump version and create changelog with commitizen"
     steps:
       - name: Check out Repo
