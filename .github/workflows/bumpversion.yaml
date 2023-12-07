@@ -1,4 +1,4 @@
-name: Bump Package Version
+name: Bump Version
 
 on:
   push:
@@ -6,8 +6,8 @@ on:
       - main
       - dev/simple-commit
 
-permissions:
-  contents: write
+# permissions:
+#   contents: write
 
 jobs:
   bump-version:
