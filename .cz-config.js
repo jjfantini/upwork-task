@@ -22,7 +22,7 @@ module.exports = {
   useEmoji: true,
   scopes: [
     { name: "core" },
-    // { name: "models" },
+    { name: "models" },
     { name: "helpers" },
     { name: "credentials" },
     { name: "constants" },
