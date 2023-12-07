@@ -14,9 +14,9 @@ module.exports = {
     confirmCommit: "Are you sure you want to proceed with the commit above?",
   },
   types: [
-    { value: ":sparkles: feat", name: "A new feature" },
-    { value: "'🐛' fix", name: "A bug fix" },
-    { value: "🚑 hotfix", name: "A temporary hotfix" },
+    { value: "feat", name: "A new feature" },
+    { value: "fix", name: "A bug fix" },
+    { value: "hotfix", name: "A temporary hotfix" },
   ],
   usePreparedCommit: false,
   useEmoji: true,
