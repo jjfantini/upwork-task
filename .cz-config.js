@@ -25,7 +25,7 @@ module.exports = {
     { name: "models" },
     { name: "helpers" },
     { name: "credentials" },
-    { name: "constants" },
+    // { name: "constants" },
     { name: "tests" },
   ],
 };
