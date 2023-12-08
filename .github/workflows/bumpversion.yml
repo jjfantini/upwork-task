@@ -4,7 +4,6 @@ on:
   push:
     branches:
       - main
-      - develop/simple
 
 permissions:
   contents: write
@@ -33,4 +32,4 @@ jobs:
           tag_name: v${{ env.REVISION }}
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-#EXAMPLE FEATURE ADDING 1
+#EXAMPLE FEATURE
