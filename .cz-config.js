@@ -16,7 +16,7 @@ module.exports = {
     confirmCommit: "Are you sure you want to proceed with the commit above?",
   },
   types: [
-    { value: "😀 feat ", name: "A new feature" },
+    { value: "m😀 feat ", name: "A new feature" },
     { value: "fix 😀", name: "A bug fix" },
     { value: "hotfix 😀", name: "A temporary hotfix" },
   ],
