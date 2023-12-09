@@ -18,6 +18,7 @@ module.exports = {
   types: [
     { value: " feat", name: "A new feature" },
     { value: "🐛 fix✨", name: "A bug fix" },
+
     { value: "🚑 hotfix", name: "A temporary hotfix" },
     {
       value: "🔨 chore",
