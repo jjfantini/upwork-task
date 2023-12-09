@@ -16,8 +16,8 @@ module.exports = {
     confirmCommit: "Are you sure you want to proceed with the commit above?",
   },
   types: [
-    { value: "-✨ feat", name: "A new feature" },
-    { value: "-🐛 fix", name: "A bug fix" },
+    { value: "feat ✨", name: "A new feature" },
+    { value: "fix 🐛", name: "A bug fix" },
 
     { value: "🚑 hotfix", name: "A temporary hotfix" },
     {
@@ -112,3 +112,4 @@ module.exports = {
 // ... (rest of the configurations)
 // tesing 1
 // testing 2
+// testing 3
