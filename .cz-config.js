@@ -17,8 +17,8 @@ module.exports = {
   },
   types: [
     { value: "feat 😀", name: "A new feature" },
-    { value: "fix", name: "A bug fix" },
-    { value: "hotfix", name: "A temporary hotfix" },
+    { value: "fix 😀", name: "A bug fix" },
+    { value: "hotfix 😀", name: "A temporary hotfix" },
   ],
   usePreparedCommit: false, // to re-use commit from ./.git/COMMIT_EDITMSG
   allowTicketNumber: true,
@@ -74,3 +74,4 @@ module.exports = {
 
 // ... (rest of the configurations)
 //testing 5
+//simple testing 6
