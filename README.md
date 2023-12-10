@@ -391,4 +391,4 @@ The settings.json file is where we can customize various project-specific settin
 
 This project welcomes contributions and suggestions. For details, visit the repository's [Contributor License Agreement (CLA)](https://cla.opensource.microsoft.com) and [Code of Conduct](https://opensource.microsoft.com/codeofconduct/) pages.
 
-#Hello
+#Hello world.
