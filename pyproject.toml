@@ -71,7 +71,7 @@ schema = """
 (ISSUES: )<footer>
 """
 schema_pattern = "(?s)(📦️ build|🎡 ci|📝 docs|✨ feat|🐛 fix|🚑 hotfix|⚡ perf|♻️ refactor|🎨 style|✅ test|🔨 chore|⏪️ revert|bump|🚧 WIP|➕ dep|➖ dep)(\\(\\S+\\))?!?:( [^\\n\\r]+)((\\n\\n.*)|(\\s*))?$"
-bump_pattern = "^(✨ feat|🐛 fix|🚑 hotfix|⚡ perf|🔧 refactor|bump)"
+bump_pattern = "^(✨ feat|🐛 fix|🚑 hotfix|⚡ perf|♻️ refactor|bump)"
 bump_map = {"BREAKING CHANGE" = "MAJOR", "✨ feat" = "MINOR", "🐛 fix" = "PATCH", "🚑 hotfix" = "PATCH", "⚡ perf" = "PATCH", "♻️ refactor" = "PATCH"}
 change_type_order = ["BREAKING CHANGE", "✨ feat", "🐛 fix", "🚑 hotfix", "♻️ refactor", "⚡ perf", "📦️ build", "🎨 style", "📝 docs", "➕ dep", "➖ dep"]
 info_path = "cz_customize_info.txt"
