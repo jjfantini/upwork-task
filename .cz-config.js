@@ -40,7 +40,7 @@ module.exports = {
     },
     {
       value: "build 📦️",
-      name: "Changes that affect the build system or external dependencies",
+      name: "Changes that affect the build system or external dependencies", //
     },
     {
       value: "ci 🎡",
