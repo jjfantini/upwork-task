@@ -47,7 +47,7 @@ build-backend = "poetry.core.masonry.api"
 
 [tool.commitizen]
 name = "cz_customize"
-version = "0.15.10"
+version = "0.16.0"
 tag_format = "v$version"
 update_changelog_on_bump = true
 annotated_tag = true
