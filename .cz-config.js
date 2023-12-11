@@ -36,7 +36,7 @@ module.exports = {
     { value: "perf 📝", name: "A code change that improves performance" }, //
     {
       value: "style 🎨",
-      name: "Changes that do not affect the meaning of the code",
+      name: "Changes that do not affect the meaning of the code", //
     },
     {
       value: "build 📦️",
