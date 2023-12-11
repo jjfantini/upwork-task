@@ -44,7 +44,7 @@ module.exports = {
     },
     {
       value: "ci 🎡",
-      name: "Changes ",
+      name: "Changes ", //
     },
     {
       value: "test ✅", //
