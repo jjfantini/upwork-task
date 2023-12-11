@@ -33,7 +33,7 @@ module.exports = {
       name: "A code change that is in progress, adding a feature or fix", //
     },
     { value: "docs 📝", name: "Documentation only changes" },
-    { value: "perf 📝", name: "A code change that improves performance" },
+    { value: "perf 📝", name: "A code change that improves performance" }, //
     {
       value: "style 🎨",
       name: "Changes that do not affect the meaning of the code",
@@ -80,7 +80,7 @@ module.exports = {
   upperCaseSubject: true,
   markBreakingChangeMode: true,
   allowBreakingChanges: ["feat", "fix", "hotfix"],
-  breaklineNumber: 5,
+  breaklineNumber: 7,
   breaklineChar: "|",
   skipQuestions: ["breaking"], // add customScope
   issuePrefixes: [
