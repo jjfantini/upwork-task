@@ -17,7 +17,7 @@ module.exports = {
   },
   types: [
     { value: "✨ feat", name: "A new feature" }, //
-    { value: "fix", name: "A bug fix" }, //🐛
+    { value: "fix 🐛", name: "A bug fix" }, //🐛
 
     { value: "🚑 hotfix", name: "A temporary hotfix" },
     {
@@ -112,4 +112,4 @@ module.exports = {
 // ... (rest of the configurations)
 // tesing 1
 // testing 2
-// testing                      3
+// testing                       3
