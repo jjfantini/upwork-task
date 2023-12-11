@@ -47,7 +47,7 @@ module.exports = {
       name: "Changes ",
     },
     {
-      value: "test ✅",
+      value: "test ✅", //
       name: "Adding missing tests or correcting existing tests",
     },
     { value: "revert ⏪️", name: "Reverts a previous commit" },
