@@ -19,40 +19,40 @@ module.exports = {
     { value: "feat ✨", name: "A new feature" }, //
     { value: "fix 🐛", name: "A bug fix" }, //🐛
 
-    { value: "🚑 hotfix", name: "A temporary hotfix" },
+    { value: "hotfix 🚑", name: "A temporary hotfix" },
     {
-      value: "🔨 chore",
+      value: "chore 🔨",
       name: "Other changes that don't modify src or test files",
     },
     {
-      value: "♻️ refactor",
+      value: "refactor ♻️",
       name: "A code change that neither fixes a bug nor adds a feature",
     },
     {
-      value: "🚧 WIP",
+      value: "WIP 🚧",
       name: "A code change that is in progress, adding a feature or fix",
     },
-    { value: "📝 docs", name: "Documentation only changes" },
-    { value: "⚡ perf ", name: "A code change that improves performance" },
+    { value: "docs 📝", name: "Documentation only changes" },
+    { value: "perf 📝", name: "A code change that improves performance" },
     {
-      value: "🎨 style",
+      value: "style 🎨",
       name: "Changes that do not affect the meaning of the code",
     },
     {
-      value: "📦️ build",
+      value: "build 📦️",
       name: "Changes that affect the build system or external dependencies",
     },
     {
-      value: "🎡 ci",
+      value: "ci 🎡",
       name: "Changes ",
     },
     {
-      value: "✅ test",
+      value: "test ✅",
       name: "Adding missing tests or correcting existing tests",
     },
-    { value: "⏪️ revert", name: "Reverts a previous commit" },
-    { value: "➕ add_dep", name: "Add a dependency" },
-    { value: "➖ rem_dep", name: "Remove a dependency" },
+    { value: "revert ⏪️", name: "Reverts a previous commit" },
+    { value: "add_dep ➕", name: "Add a dependency" },
+    { value: "rem_dep ➖", name: "Remove a dependency" },
   ],
   usePreparedCommit: false, // to re-use commit from ./.git/COMMIT_EDITMSG
   allowTicketNumber: true,
