@@ -30,7 +30,7 @@ module.exports = {
     },
     {
       value: "WIP 🚧",
-      name: "A code change that is in progress, adding a feature or fix",
+      name: "A code change that is in progress, adding a feature or fix", //
     },
     { value: "docs 📝", name: "Documentation only changes" },
     { value: "perf 📝", name: "A code change that improves performance" },
