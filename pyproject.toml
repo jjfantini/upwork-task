@@ -80,7 +80,7 @@ This is customized commitizen info
 """
 commit_parser = "^(?P<change_type> build|ci|docs|feat|fix|hotfix|perf|refactor|style|test|chore|revert|bump|WIP|add_dep|rem_dep): (?P<message>.*)?"
 changelog_pattern = "^(build|ci|docs|feat|fix|hotfix|perf|refactor|style|test|chore|revert|bump|WIP|add_dep|rem_dep)?(!)?"
-change_type_map = {"feat" = "Feat", "fix" = "Fix", "hotfix" = "Fix"}
+change_type_map = {"feat" = "Feat", "fix" = "Fix", "hotfix" = "Hotfix"}
 
 [tool.ruff]
 line-length = 80

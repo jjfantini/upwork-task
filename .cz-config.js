@@ -79,7 +79,7 @@ module.exports = {
   emptyScopesAlias: "empty",
   upperCaseSubject: true,
   markBreakingChangeMode: true,
-  allowBreakingChanges: ["feat", "fix"],
+  allowBreakingChanges: ["feat", "fix", "hotfix"],
   breaklineNumber: 5,
   breaklineChar: "|",
   skipQuestions: ["breaking"], // add customScope
