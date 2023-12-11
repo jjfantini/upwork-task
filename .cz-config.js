@@ -22,7 +22,7 @@ module.exports = {
     { value: "hotfix 🚑", name: "A temporary hotfix" }, //
     {
       value: "chore 🔨",
-      name: "Other changes that don't modify src or test files",
+      name: "Other changes that don't modify src or test files", //
     },
     {
       value: "refactor ♻️",
