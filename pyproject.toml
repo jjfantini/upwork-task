@@ -70,17 +70,17 @@ schema = """
 <BLANK LINE> \n
 (ISSUES: )<footer>
 """
-schema_pattern = "(build|ci|docs|feat|fix|hotfix|perf|refactor|style|test|chore|revert|bump|WIP|dep|dep)(\\(\\S+\\))?!?:( [^\\n\\r]+)((\\n\\n.*)|(\\s*))?$"
-bump_pattern = "^(feat|fix|hotfix|perf|refactor|bump)"
-bump_map = {"BREAKING CHANGE" = "MAJOR", "feat" = "MINOR", "fix" = "PATCH", "hotfix" = "PATCH", "perf" = "PATCH", "refactor" = "PATCH"}
-change_type_order = ["BREAKING CHANGE", "feat", "fix", "hotfix", "refactor", "perf", "build", "style", "docs", "dep", "dep"]
+schema_pattern = "(feat|fix|hotfix)(\\(\\S+\\))?!?:( [^\\n\\r]+)((\\n\\n.*)|(\\s*))?$"
+bump_pattern = "^(feat|fix|hotfix)"
+bump_map = {"BREAKING CHANGE" = "MAJOR", "feat" = "MINOR", "fix" = "PATCH", "hotfix" = "PATCH"}
+change_type_order = ["BREAKING CHANGE", "feat", "fix", "hotfix"]
 info_path = "cz_customize_info.txt"
 info = """
 This is customized commitizen info
 """
-commit_parser = "^(?P<change_type>build|ci|docs|feat|fix|hotfix|perf|refactor|style|test|chore|revert|bump|WIP|add_dep|rem_dep):\\s(?P<message>.*)?"
-changelog_pattern = "^(build|ci|docs|feat|fix|hotfix|perf|refactor|style|test|chore|revert|bump|WIP|add_dep|rem_dep)?(!)?"
-change_type_map = {"build" = "Build", "ci" = "CI", "docs" = "Docs", "feat" = "Feat", "fix" = "Fix", "hotfix" = "Hotfix", "perf" = "Perf", "refactor" = "Refactor", "style" = "Style", "test" = "Test", "chore" = "Chore", "revert" = "Revert", "bump" = "Bump", "WIP" = "WIP", "add_dep" = "Added Dependency", "rem_dep" = "Removed Dependency"}
+commit_parser = "^(?P<change_type>feat|fix|hotfix): (?P<message>.*)?"
+changelog_pattern = "^(feat|fix|hotfix)?(!)?"
+change_type_map = {"feat" = "Feat", "fix" = "Fix", "hotfix" = "Hotfix"}
 
 [tool.ruff]
 line-length = 80
